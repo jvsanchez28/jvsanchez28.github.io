@@ -16,7 +16,7 @@
 		background: #fff;
 	}
 
-		body.is-loading *
+/*		body.is-loading *
 		{
 			-moz-transition: none !important;
 			-webkit-transition: none !important;
@@ -28,7 +28,7 @@
 			-o-animation: none !important;
 			-ms-animation: none !important;
 			animation: none !important;
-		}
+		}*/
 
 	body,input,textarea,select
 	{

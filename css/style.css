@@ -78,6 +78,11 @@
 			font-size: 1.5em;
 		}
 
+	.container
+	{
+		padding-bottom: 20% !important;
+		padding-top: 20% !important;
+	}
 	header
 	{
 		margin: 0 0 2em 0;
